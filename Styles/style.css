@@ -1,0 +1,44 @@
+body{
+font-family: sans-serif;
+
+}
+
+
+#first, #CapstoneProjects{
+background-color: #958f8f;
+color: #f8f9fa;
+padding-bottom: 4.5rem;
+}
+
+
+.title-l {
+margin-left:50px;
+font-family: 'Raleway', sans-serif;
+font-size: 8vw;
+color: #958f8f;
+}
+
+
+.cap-img{
+height: 200px;
+width: 200px;
+border: 5px solid #f8f9fa;
+border-radius: 25px;
+margin: 10px 5px;
+background: url("https://media.sketchfab.com/models/8be4a2579dd84586b915068e475073ee/thumbnails/484917a810774734a2712217d8b86a89/a5fe8fafcb3e4da5a21da24f16bee0da.jpeg") no-repeat center;
+background-size: 180%;
+}
+
+.minor-img{
+height: 100px;
+width: 100px;
+border: 2px solid #958f8f;
+border-radius: 15px;
+margin: 10px 5px;
+}
+
+.gradient {
+background: rgb(248,249,250);
+background: linear-gradient(180deg, rgba(248,249,250,1) 0%, rgba(203,190,190,1) 53%, rgba(149,143,143,1) 100%);
+padding-bottom:25px;
+}
