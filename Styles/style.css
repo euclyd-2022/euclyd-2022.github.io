@@ -5,7 +5,7 @@ font-family: sans-serif;
 
 
 #first, #CapstoneProjects{
-background-color: #958f8f;
+background-color: rgb(20,20,20);
 color: #f8f9fa;
 padding-bottom: 4.5rem;
 }
@@ -15,7 +15,7 @@ padding-bottom: 4.5rem;
 margin-left:50px;
 font-family: 'Raleway', sans-serif;
 font-size: 8vw;
-color: #958f8f;
+color:rgb(41, 41, 43) 100%;
 }
 
 
@@ -32,13 +32,13 @@ background-size: 180%;
 .minor-img{
 height: 100px;
 width: 100px;
-border: 2px solid #958f8f;
+border: 2px solid rgb(41, 41, 43) 100%;
 border-radius: 15px;
 margin: 10px 5px;
 }
 
 .gradient {
-background: rgb(248,249,250);
-background: linear-gradient(180deg, rgba(248,249,250,1) 0%, rgba(203,190,190,1) 53%, rgba(149,143,143,1) 100%);
+
+background: linear-gradient(180deg, rgb(83, 83, 83) 0%, rgb(20, 20, 20) 100%, rgb(41, 41, 43) 100%);
 padding-bottom:25px;
 }
