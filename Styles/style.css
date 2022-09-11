@@ -36,9 +36,3 @@ border: 2px solid rgb(41, 41, 43) 100%;
 border-radius: 15px;
 margin: 10px 5px;
 }
-
-.gradient {
-
-background: linear-gradient(180deg, rgb(83, 83, 83) 0%, rgb(20, 20, 20) 100%, rgb(41, 41, 43) 100%);
-padding-bottom:25px;
-}
