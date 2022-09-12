@@ -1,5 +1,5 @@
 body{
-    font: 1rem/1.5 var(--bs-font-sans-serif);
+    font: 1rem/1.6 var(--bs-font-sans-serif);
 }
 
 #first, #CapstoneProjects{
@@ -9,9 +9,13 @@ padding-bottom: 4.5rem;
 }
 
 #footer{
-  position: fixed;
-  bottom: 0;
+  height: 150px;
+  margin:auto;
+
   }
+.date{
+  text-align:center;
+}
 
 .title-l {
 margin-left:50px;
@@ -37,9 +41,6 @@ height: 100px;
 width: 100px;
 border: 2px solid rgb(41, 41, 43) 100%;
 border-radius: 15px;
-margin: 10px 5px;
+margin: 100px 5px 14px;
 }
-
-
-
 
