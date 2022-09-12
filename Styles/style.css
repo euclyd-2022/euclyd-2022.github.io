@@ -8,6 +8,10 @@ color: #f8f9fa;
 padding-bottom: 4.5rem;
 }
 
+#footer{
+  position: fixed;
+  bottom 0;
+  }
 
 .title-l {
 margin-left:50px;
@@ -35,5 +39,7 @@ border: 2px solid rgb(41, 41, 43) 100%;
 border-radius: 15px;
 margin: 10px 5px;
 }
+
+
 
 
