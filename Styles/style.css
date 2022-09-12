@@ -1,20 +1,33 @@
+
+
 body{
     font: 1rem/1.6 var(--bs-font-sans-serif);
+    
 }
 
-#first, #CapstoneProjects{
-background-color: rgb(33, 33, 34);
+#first, #CapstoneProjects, #footer{
+background-color: rgb(35, 35, 39);
 color: #f8f9fa;
 padding-bottom: 4.5rem;
 }
 
+
+#minor{
+  background-color: #e2e5e7;
+  padding-bottom:8rem;
+}
 #footer{
+  background-color: rgb(35, 35, 39);
   height: 150px;
-  margin:auto;
+  margin:au
 
   }
 .date{
+
   text-align:center;
+  height: 100px;
+  padding:20px;
+  
 }
 
 .title-l {
@@ -29,7 +42,7 @@ border:0;
 .cap-img{
 height: 200px;
 width: 200px;
-border: 5px solid #f8f9fa;
+border: 2px solid #bababb;
 border-radius: 25px;
 margin: 10px 5px;
 background: url("https://media.sketchfab.com/models/8be4a2579dd84586b915068e475073ee/thumbnails/484917a810774734a2712217d8b86a89/a5fe8fafcb3e4da5a21da24f16bee0da.jpeg") no-repeat center;
