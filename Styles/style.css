@@ -2,11 +2,6 @@ body{
     font: 1rem/1.5 var(--bs-font-sans-serif);
 }
 
-a {
-    color: var(--bs-teal);
-
-  }
-
 #first, #CapstoneProjects{
 background-color: rgb(33, 33, 34);
 color: #f8f9fa;
