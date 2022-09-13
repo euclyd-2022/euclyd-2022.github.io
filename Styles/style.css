@@ -59,3 +59,15 @@ border-radius: 15px;
 margin: 100px 5px 14px;
 }
 
+@media (max-width: @screen-xs) {
+  .link-info{font-size: 1.9rem;}
+}
+
+@media (max-width: @screen-sm) {
+  .link-info{font-size: 1.8rem;}
+}
+
+
+h5{
+  font-size: 1.6rem;
+}       
