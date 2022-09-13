@@ -1,7 +1,7 @@
 
 
 body{
-    font: 1.6rem/1.8 var(--bs-font-sans-serif);
+    font: 1.2rem/1.3 var(--bs-font-sans-serif);
     
 }
 
@@ -59,12 +59,15 @@ border-radius: 15px;
 margin: 100px 5px 14px;
 }
 
-@media (max-width: @screen-xs) {
-  a{font-size: 1.9rem;}
+@media (min-width: 1130px) {
+  a{font-size: 1.2rem;}
+  p{font-size:1rem;}
 }
 
-@media (max-width: @screen-sm) {
-  a{font-size: 1.8rem;}
+
+@media (max-width: 1130px) {
+  a{font-size: 2.2rem;}
+  p{font-size: 2.1rem;}
 }
 
 
