@@ -1,7 +1,7 @@
 
 
 body{
-    font: 1rem/1.6 var(--bs-font-sans-serif);
+    font: 1.6rem/1.8 var(--bs-font-sans-serif);
     
 }
 
@@ -60,14 +60,16 @@ margin: 100px 5px 14px;
 }
 
 @media (max-width: @screen-xs) {
-  .link-info{font-size: 1.9rem;}
+  a{font-size: 1.9rem;}
 }
 
 @media (max-width: @screen-sm) {
-  .link-info{font-size: 1.8rem;}
+  a{font-size: 1.8rem;}
 }
 
 
 h5{
   font-size: 1.6rem;
 }       
+
+a {text-decoration:none;}
