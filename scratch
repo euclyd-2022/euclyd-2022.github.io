@@ -1,0 +1,55 @@
+<div class="container-fluid">
+ <div class="row">
+        <div class="col-12"><h1 class="title-l">portFolio</h1></div>
+
+        </div>
+    </div>
+
+    </section>
+<section id="CapstoneProjects">
+    <div id="carouselFade" class="carousel slide carousel-fade" data-bs-ride="carousel">
+        <div class="carousel-inner" >
+
+          <div class="carousel-item active">
+            <div class="d-flex justify-content-center w-40 h-40"><div class="carousel-caption d-none d-md-block">
+                <h5 style="color:white;background:rgba(0, 0, 0, 0.5);">Python Flask Blog site</h5>
+                <p></p>
+
+           <a href="https://day-70-blog-app.herokuapp.com/"><img src="Assets/day70blog.png" class="d-block w-40" alt="blog"></a>
+
+          </div>
+          </div>
+          <div class="carousel-item">
+            <div class="d-flex justify-content-center w-40 h-40">
+                <div class="carousel-caption d-none d-md-block">
+                    <h5 style="color:white;background:rgba(0, 0, 0, 0.5);">YouTube Clone using React.js</h5>
+
+                  </div>
+            <a href="https://vr16qz-3000.preview.csb.app"><img src="Assets/ytclone.png" class="d-block w-40"  alt="youtube clone"></a>
+
+
+            </div>
+        </div>
+         <div class="carousel-item">
+            <div class="d-flex justify-content-center w-40 h-40">
+                <div class="carousel-caption d-none d-md-block">
+                    <h5 style="color:white;background:rgba(0, 0, 0, 0.5);">Ascii Art converter</h5>
+
+                  </div>
+            <a href="https://ascii-art-2022.herokuapp.com/"><img src="Assets/ascii.png" class="d-block w-40"  alt="ascii art"></a>
+
+
+            </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselFade" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselFade" data-bs-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Next</span>
+        </button>
+      </div>
+    </div>
+</div>
+</section>
